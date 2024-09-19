@@ -1,3 +1,8 @@
+# Coming soon placeholder
+
+Live: https://coming-soon-nine-pi.vercel.app/
+
+
 # Astro Starter Kit: Basics
 
 ```sh
